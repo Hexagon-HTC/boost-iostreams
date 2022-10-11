@@ -43,7 +43,7 @@
 #  endif
 
 // And include the header that does the work.
-#  include <boost/config/auto_link.hpp>
+//#  include <boost/config/auto_link.hpp>
 # endif
 #endif
 
